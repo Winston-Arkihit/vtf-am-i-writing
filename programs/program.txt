@@ -1,0 +1,12 @@
+push 20
+push 30
+add
+//this is a comment
+push 8
+push 3
+sub
+//this is a comment
+div
+out
+hlt
+//this is a comment
