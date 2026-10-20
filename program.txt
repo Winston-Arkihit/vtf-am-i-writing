@@ -1,9 +1,0 @@
-push 20
-push 30
-add
-push 8
-push 3
-sub
-div
-out
-hlt
